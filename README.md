@@ -4,8 +4,6 @@
 
 **One line. Bitcoin-timestamped. Can never be deleted. Forever.**
 
-Live: https://qillquantum.github.io/eternal-feed
-
 ### Project Map
 eternal-feed/
 ├── vault/                  # ← One JSON per eternal line (00000001.json → ∞)
